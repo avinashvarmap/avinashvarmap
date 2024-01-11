@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analysis, Python**
 
-- 💬 Ask me about **Data Analysis, Visualization, Finding Trend**
+- 💬 Ask me about **Data Analysis, Visualization, Finding Trends**
 
 - 📫 How to reach me **avinash.pericherla789@gmail.com**
 
