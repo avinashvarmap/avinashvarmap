@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Avinash Varma</h1>
-<h3 align="center">A passionate Data Analyst from United Kingdom</h3>
+<h1 align="center">Hi 👋, I'm Avinash Varma Pericherla</h1>
+<h3 align="center">Data Analyst | Insights That Drive Action</h3>
 <img align= "right" alt ="coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashvarmap&label=Profile%20views&color=0e75b6&style=flat" alt="avinashvarmap" /> </p>
 
-- 🔭 I’m currently working in **The Interactive Team**
+- 🔭 I’m currently working as Data Analyst in **Morgan Stanley**
 
-- 🌱 I’m currently learning **Data Analysis, Python**
+- 🌱 I’m currently learning **Data Analysis, Python, SQl, R programming, ALteryx, Power BI**
 
-- 💬 Ask me about **Data Analysis, Visualization, Finding Trends**
+- 💬 Ask me about **Data Analysis, Visualization, Finding Trends, Machine Learning, Data Modelling**
 
 - 📫 How to reach me **avinash.pericherla789@gmail.com**
 
